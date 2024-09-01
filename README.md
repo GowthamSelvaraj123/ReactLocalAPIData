@@ -1,7 +1,7 @@
-<img src="![image](https://github.com/user-attachments/assets/19b59a3b-708d-494a-8aaf-3a69e49dc620)
+<img src="https://github.com/user-attachments/assets/19b59a3b-708d-494a-8aaf-3a69e49dc620
 ">
 <p>http://localhost:3000/places - Below the json screenshot in backend server</p>
-<img src="![image](https://github.com/user-attachments/assets/819d1784-4296-4c95-96fe-20b8ba5498e0)
+<img src="https://github.com/user-attachments/assets/819d1784-4296-4c95-96fe-20b8ba5498e0
 ">
 
 <h1>React.js Project with Custom APIs Using Fetch</h1>
